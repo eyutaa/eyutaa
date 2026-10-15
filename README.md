@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Eyerusalem 👋
 
-<!--
-**eyutaa/eyutaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student at Dire Dawa University
+💻 Learning: HTML, CSS, JavaScript, React, Flutter
+🌱 Currently building: MediCare — a medicine reminder app
+📫 Reach me: eyerusalemberihun333@gmail.com
 
-Here are some ideas to get you started:
+### Connect with me
+- 🔗 LinkedIn: linkedin.com/in/eyerusalem-berihun-135149327
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Web: HTML5, CSS3, JavaScript (learning)
+- Mobile: Flutter / Dart
+- Databases: JDBC, SQL
+- Tools: Git, GitHub
